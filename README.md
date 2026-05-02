@@ -1,4 +1,15 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+ContentForge is an AI marketing copy studio for generating polished copy, tone rewrites, and multi-platform campaigns.
+
+## Tone Guide
+
+- Professional: clear, confident, and business-ready. Best for launches, product messaging, and formal brand communication.
+- Casual: friendly, natural, and conversational. Best for social posts, community updates, and lighter brand voice.
+
+## Features
+
+- Generator for platform-specific copy
+- Tone Rewriter for adjusting voice without changing the core message
+- Campaign Planner for generating content across multiple channels
 
 ## Getting Started
 
